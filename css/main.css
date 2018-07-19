@@ -20,3 +20,8 @@ li a {
  	background-color: #111;
  	
  }
+
+ h1 {
+ 	color: rgb(255,255,255);
+ 	background-color: rgba(0,0,0,.5);
+ }
